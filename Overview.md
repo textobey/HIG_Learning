@@ -1,12 +1,3 @@
-# Human Interface Guide Learning
-
-### 애플의 Human Interface Guide를 읽고, 리마인드 하기 위해 요즘 핫한 Chat GPT를 활용해서 내용을 요약
-
-- HIG : https://developer.apple.com/design/human-interface-guidelines/platforms/overview
-- HIG 한국어 번역 Reference :
-  - https://brunch.co.kr/@3756ea803def4ac
-  - https://github.com/Jeonhui/Apple_HIG_Korean
-
 # Designing for iOS(Overview)
 
 - iPhone을 잡는 인체적 특성 고려해야해요.(가로, 세로, 한손, 두손)
